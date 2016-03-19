@@ -4,7 +4,7 @@
 static int getn;
 static int headc;
 //char* st="HTTP/1.1 200 OK";
-
+//
 void writehead(int sock,char* head,char*content){
     writen(sock,head,strlen(head));
                 writen(sock,"\r",1);

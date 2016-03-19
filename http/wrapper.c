@@ -1,10 +1,5 @@
 //wrapper.c
 //NAME:           RAHUL KRISHNA DENDUKURI
-
-
-
-
-
 #include "wrapper.h"
 
 //Client Wrapper Functions
